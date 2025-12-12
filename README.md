@@ -19,7 +19,6 @@
 
 - **(09/2019)** We have released the code of online hand gesture recognition on NVIDIA Jeston Nano. It can achieve real-time recognition at only 8 watts. See [`online_demo`](online_demo) folder for the details. [[Full Video]](https://hanlab18.mit.edu/projects/tsm/#live_demo)
 
-![tsm-demo](https://hanlab18.mit.edu/projects/tsm/external/tsm-demo2.gif)
 
 ## Overview
 
